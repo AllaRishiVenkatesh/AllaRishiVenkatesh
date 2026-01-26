@@ -1,18 +1,57 @@
-#About Me:
-Computer Science undergraduate with strong foundations in operating systems, data structures, and system-level performance analysis. Experienced in building full-stack web applications and developing compute-focused projects such as CPU scheduling simulators. Interested in systems engineering, benchmarking, and scalable software design, with hands-on
+## About Me
 
+I am a Computer Science undergraduate with strong foundations in operating systems, data structures, computer networks, and system-level performance analysis. I have hands-on experience building full-stack web applications and compute-focused projects, including a CPU Scheduling Algorithm Simulator that analyzes performance metrics such as waiting time and turnaround time.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alla Rishi Venkatesh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Alla Rishi Venkatesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alla.rishivenkatesh@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AllaRishiVenkatesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AllaRishiVenkatesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaRishiVenkatesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My interests lie in systems engineering, benchmarking, and scalable software design. I enjoy working close to core computer science concepts and applying them to practical engineering problems. I am actively seeking opportunities where I can contribute as a Software Engineering or Compute Research Intern while continuing to deepen my understanding of systems and performance-oriented computing.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AllaRishiVenkatesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Profiles & Contact
+
+- **GitHub:** https://github.com/AllaRishiVenkatesh  
+- **LinkedIn:** https://www.linkedin.com/in/allarishivenkatesh/  
+- **Email:** alla.rishivenkatesh@gmail.com  
+
+---
+
+## Technical Skills
+
+**Programming Languages**  
+Python, JavaScript, SQL  
+
+**Web & Backend Technologies**  
+Node.js, Express.js, React.js, HTML, CSS  
+
+**Databases**  
+MongoDB, MySQL, PostgreSQL  
+
+**Systems & Core Computer Science**  
+Operating Systems, CPU Scheduling, Data Structures and Algorithms, Computer Networks, OOPS Concepts  
+
+**Tools & Platforms**  
+Git, GitHub, Postman, VS Code  
+
+**Cloud**  
+Amazon Web Services (AWS)
+
+---
+
+## Project Highlights
+
+**InternArena – Student Internship Portal**  
+Full-stack MERN application featuring authentication, role-based dashboards, REST APIs, and database schema design.
+
+**CPU Scheduling Algorithm Simulator**  
+Implemented FCFS, SJF, and Round Robin scheduling algorithms with Gantt chart visualization and performance metric analysis.
+
+**AlgoArena – Collaborative Coding Platform**  
+Web-based platform designed for algorithm practice with structured navigation and an interactive coding interface.
+
+---
+
+## Interests
+
+- Systems and compute performance analysis  
+- Operating systems and scheduling algorithms  
+- Backend engineering and scalable application design  
+- Benchmarking and performance evaluation  
