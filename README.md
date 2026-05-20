@@ -57,8 +57,8 @@ I build full-stack web applications, backend systems, and machine learning-power
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllaRishiVenkatesh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllaRishiVenkatesh&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AllaRishiVenkatesh&theme=default" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AllaRishiVenkatesh&theme=default" height="160"/>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ I build full-stack web applications, backend systems, and machine learning-power
 ## Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AllaRishiVenkatesh?theme=light&font=Nunito&ext=heatmap&hide_border=true"/>
+  <img src="https://leetcard.jacoblin.cool/rishialla?theme=light&font=Nunito&ext=heatmap&hide_border=true"/>
 </p>
 
 - **CodeChef** — Rating: 1545
