@@ -1,76 +1,66 @@
-## About Me
+# Alla Rishi Venkatesh
 
-I am a Computer Science undergraduate with hands-on experience in building full-stack web applications and backend systems. I enjoy designing scalable solutions, developing REST APIs, and working across the complete development lifecycle.
+Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** (2023–2027), currently interning as a Full-Stack Developer at **Inforaise Technologies**.
 
-I have built projects ranging from real-time collaborative platforms to AI-powered systems, and I am particularly interested in backend engineering, system design, and data-driven applications.
-
-Currently, I am working as a Full-Stack Intern, where I develop applications using modern technologies such as React, FastAPI, and MongoDB.
+I build full-stack web applications, backend systems, and machine learning-powered tools — focused on REST APIs, scalable architecture, and data-driven solutions.
 
 ---
 
-## Profiles & Contact
+## Tech Stack
 
-- GitHub: https://github.com/AllaRishiVenkatesh  
-- LinkedIn: https://www.linkedin.com/in/allarishivenkatesh/  
-- Email: alla.rishivenkatesh@gmail.com  
+**Languages:** Python · JavaScript · SQL
 
----
+**Full-Stack:** React.js · FastAPI · Tailwind CSS
 
-## Technical Skills
+**Databases:** MongoDB
 
-Programming Languages  
-Python, JavaScript, SQL  
+**Machine Learning:** Scikit-learn · TF-IDF · Random Forest
 
-Full-Stack Development  
-React.js, FastAPI, Node.js, Express.js  
+**Tools:** Git · GitHub · Postman · VS Code
 
-Databases  
-MongoDB, MySQL, PostgreSQL  
-
-Core Computer Science  
-Data Structures and Algorithms, Operating Systems, Computer Networks, OOP  
-
-Tools  
-Git, GitHub, Postman, VS Code  
-
-Cloud  
-AWS (Basic)
+**Cloud:** AWS — EC2, S3, IAM *(Cloud Practitioner Certified)*
 
 ---
 
-## Featured Projects
+## Projects
 
-WisePay — Personal Expense Tracker for Smarter Financial Decisions  
-Full-stack financial management application built with React, FastAPI, and MongoDB.
+### [WisePay](https://github.com/AllaRishiVenkatesh) — Personal Expense Tracker
+`React` `FastAPI` `MongoDB` `Tailwind CSS`
 
-- Implemented JWT-based authentication and secure user management  
-- Developed REST APIs using FastAPI with asynchronous MongoDB integration  
-- Built interactive dashboards with Recharts for financial insights  
-- Designed advanced filtering (date range, category, income/expense) for dynamic data exploration  
-
----
-
-AlgoArena — Real-Time Collaborative Coding Platform  
-Web-based collaborative coding platform enabling multiple users to edit code simultaneously.
-
-- Implemented real-time synchronization using WebSockets and CRDT (Yjs)  
-- Designed persistent session storage using MongoDB  
-- Built multi-user room-based architecture  
+- JWT-based authentication and secure user management
+- Asynchronous MongoDB integration via FastAPI REST APIs
+- Interactive dashboards with Recharts for financial insights
+- Advanced filtering by date range, category, and transaction type
 
 ---
 
-SprintIQ — AI-Powered Agile Estimation System  
-Machine learning system to estimate story points using NLP techniques.
+### [AlgoArena](https://github.com/AllaRishiVenkatesh) — Real-Time Collaborative Coding Platform
+`JavaScript` `WebSockets` `MongoDB` `Yjs`
 
-- Built ML model using TF-IDF and regression algorithms  
-- Deployed model via FastAPI API for real-time predictions  
-- Improved estimation consistency using a data-driven approach  
+- Real-time multi-user code editing with CRDT-based synchronization using Yjs
+- Room-based architecture with persistent session storage via MongoDB
+- Designed for consistency and reliability during concurrent edits
 
 ---
 
-## Interests
+### [SprintIQ](https://github.com/AllaRishiVenkatesh) — AI-Powered Agile Estimation System
+`Python` `FastAPI` `Scikit-learn` `TF-IDF`
 
-- Backend engineering and scalable systems  
-- Full-stack application development  
-- System design and performance optimization  
-- Data-driven and AI-powered applications  
+- NLP pipeline using TF-IDF vectorization for story complexity analysis
+- Random Forest Regressor for story point prediction, evaluated with RMSE
+- Deployed as a real-time prediction endpoint via FastAPI
+
+---
+
+## Competitive Programming
+
+- **LeetCode** — 200+ problems solved
+- **CodeChef** — Rating: 1545
+
+---
+
+## Contact
+
+- **Email:** alla.rishivenkatesh@gmail.com
+- **LinkedIn:** [linkedin.com/in/allarishivenkatesh](https://www.linkedin.com/in/allarishivenkatesh/)
+- **GitHub:** [github.com/AllaRishiVenkatesh](https://github.com/AllaRishiVenkatesh)
