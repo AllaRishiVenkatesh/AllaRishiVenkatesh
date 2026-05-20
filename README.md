@@ -1,5 +1,7 @@
 # Alla Rishi Venkatesh
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=AllaRishiVenkatesh.AllaRishiVenkatesh)
+
 Computer Science undergraduate at **Amrita Vishwa Vidyapeetham** (2023–2027), currently interning as a Full-Stack Developer at **Inforaise Technologies**.
 
 I build full-stack web applications, backend systems, and machine learning-powered tools — focused on REST APIs, scalable architecture, and data-driven solutions.
@@ -52,10 +54,32 @@ I build full-stack web applications, backend systems, and machine learning-power
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AllaRishiVenkatesh&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllaRishiVenkatesh&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllaRishiVenkatesh&theme=default&hide_border=true"/>
+</p>
+
+---
+
 ## Competitive Programming
 
-- **LeetCode** — 200+ problems solved
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AllaRishiVenkatesh?theme=light&font=Nunito&ext=heatmap&hide_border=true"/>
+</p>
+
 - **CodeChef** — Rating: 1545
+
+---
+
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AllaRishiVenkatesh&theme=minimal&hide_border=true)
 
 ---
 
